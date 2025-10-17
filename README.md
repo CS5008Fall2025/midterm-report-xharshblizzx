@@ -1,7 +1,7 @@
 # Midterm p1: Report on Analysis of Fibonacci Series
 * **Author**: Harsh Dalal
 * **GitHub Repo**:([https://github.com/CS5008Fall2025/midterm-report-xharshblizzx](https://github.com/CS5008Fall2025/midterm-report-xharshblizzx/))
-* **Semester**: Fall 2024
+* **Semester**: Fall 2025
 * **Languages Used**: C, Python
 
 ## Overview
